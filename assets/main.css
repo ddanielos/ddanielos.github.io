@@ -1,0 +1,4 @@
+*{margin:0;padding:0}body{background-color:#f0e9dd;font-family:Helvetica}.container{width:80%;margin:20px auto;display:flex;flex-direction:column}header{width:100%;text-align:center;line-height:150px}h1{font-size:50px;text-shadow:2px 2px 2px #a5a2a2}.contenido{width:calc(100%-40px);min-width:250px}.contenido img{width:35%;margin:0 auto;display:block}footer{text-align:center;margin:20px}footer h2{padding-top:20px}footer p{padding-top:10px}footer p a{color:#ff4a00}
+
+@media only screen and (max-width: 600px){h1{font-size:30px}h2{font-size:15px}}
+
